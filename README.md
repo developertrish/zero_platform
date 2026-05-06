@@ -7,7 +7,7 @@ No algorithm, no ranked feed, no engagement scores. Posts appear in the order th
 
 | Layer | Technology |
 |---|---|
-| Backend | Laravel 11 (PHP 8.2+) |
+| Backend | Laravel 13 (PHP 8.4+) |
 | Frontend | Vue 3 (Composition API) |
 | Bridge | Inertia.js v1 |
 | Styling | Tailwind CSS v3 |
